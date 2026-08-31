@@ -11,4 +11,8 @@
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Shared\Presentation\" />
+    </ItemGroup>
+
 </Project>
